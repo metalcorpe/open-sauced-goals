@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "nitefood/asn",
+    "stargazers_count": 767,
+    "open_issues_count": 2,
+    "forks_count": 92
+  },
+  {
     "full_name": "ultrafunkamsterdam/undetected-chromedriver",
-    "stargazers_count": 3333,
-    "open_issues_count": 486,
-    "forks_count": 549
+    "stargazers_count": 3369,
+    "open_issues_count": 493,
+    "forks_count": 551
   },
   {
     "full_name": "rfc1036/whois",
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "degrigis/awesome-angr",
-    "stargazers_count": 101,
+    "stargazers_count": 102,
     "open_issues_count": 0,
     "forks_count": 4
   }
