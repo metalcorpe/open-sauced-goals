@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "karanpratapsingh/learn-go",
+    "stargazers_count": 662,
+    "open_issues_count": 0,
+    "forks_count": 64
+  },
+  {
     "full_name": "metalcorpe/payshield-rest-gopher",
     "stargazers_count": 1,
     "open_issues_count": 3,
@@ -7,25 +13,25 @@
   },
   {
     "full_name": "nitefood/asn",
-    "stargazers_count": 883,
+    "stargazers_count": 884,
     "open_issues_count": 0,
     "forks_count": 109
   },
   {
     "full_name": "ultrafunkamsterdam/undetected-chromedriver",
-    "stargazers_count": 4996,
-    "open_issues_count": 628,
-    "forks_count": 730
+    "stargazers_count": 5047,
+    "open_issues_count": 635,
+    "forks_count": 734
   },
   {
     "full_name": "rfc1036/whois",
-    "stargazers_count": 377,
+    "stargazers_count": 379,
     "open_issues_count": 8,
     "forks_count": 98
   },
   {
     "full_name": "degrigis/awesome-angr",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 0,
     "forks_count": 4
   }
