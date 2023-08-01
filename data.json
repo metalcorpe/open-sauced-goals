@@ -1,13 +1,13 @@
 [
   {
     "full_name": "rfc1036/whois",
-    "stargazers_count": 392,
-    "open_issues_count": 12,
-    "forks_count": 101
+    "stargazers_count": 393,
+    "open_issues_count": 14,
+    "forks_count": 102
   },
   {
     "full_name": "degrigis/awesome-angr",
-    "stargazers_count": 127,
+    "stargazers_count": 128,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -15,6 +15,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 886,
     "open_issues_count": 0,
-    "forks_count": 683
+    "forks_count": 686
   }
 ]
