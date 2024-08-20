@@ -1,7 +1,7 @@
 [
   {
     "full_name": "karanpratapsingh/learn-go",
-    "stargazers_count": 870,
+    "stargazers_count": 872,
     "open_issues_count": 0,
     "forks_count": 93
   },
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "nitefood/asn",
-    "stargazers_count": 1296,
+    "stargazers_count": 1302,
     "open_issues_count": 2,
     "forks_count": 159
   },
   {
     "full_name": "ultrafunkamsterdam/undetected-chromedriver",
-    "stargazers_count": 9367,
-    "open_issues_count": 996,
-    "forks_count": 1110
+    "stargazers_count": 9401,
+    "open_issues_count": 1000,
+    "forks_count": 1113
   },
   {
     "full_name": "rfc1036/whois",
-    "stargazers_count": 480,
+    "stargazers_count": 478,
     "open_issues_count": 18,
     "forks_count": 111
   },
@@ -33,6 +33,6 @@
     "full_name": "degrigis/awesome-angr",
     "stargazers_count": 156,
     "open_issues_count": 0,
-    "forks_count": 10
+    "forks_count": 8
   }
 ]
