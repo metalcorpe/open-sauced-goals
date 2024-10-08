@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "github/semantic",
+    "stargazers_count": 8956,
+    "open_issues_count": 115,
+    "forks_count": 454
+  },
+  {
     "full_name": "karanpratapsingh/learn-go",
-    "stargazers_count": 899,
+    "stargazers_count": 900,
     "open_issues_count": 0,
     "forks_count": 94
   },
@@ -13,25 +19,25 @@
   },
   {
     "full_name": "nitefood/asn",
-    "stargazers_count": 1349,
+    "stargazers_count": 1354,
     "open_issues_count": 0,
     "forks_count": 163
   },
   {
     "full_name": "ultrafunkamsterdam/undetected-chromedriver",
-    "stargazers_count": 9707,
-    "open_issues_count": 1024,
+    "stargazers_count": 9726,
+    "open_issues_count": 1027,
     "forks_count": 1144
   },
   {
     "full_name": "rfc1036/whois",
-    "stargazers_count": 490,
+    "stargazers_count": 491,
     "open_issues_count": 23,
     "forks_count": 115
   },
   {
     "full_name": "degrigis/awesome-angr",
-    "stargazers_count": 158,
+    "stargazers_count": 161,
     "open_issues_count": 0,
     "forks_count": 8
   }
