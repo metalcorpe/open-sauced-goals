@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "DigitalPlatDev/FreeDomain",
+    "stargazers_count": 55109,
+    "open_issues_count": 8,
+    "forks_count": 1098
+  },
+  {
     "full_name": "funnydman/pymapme",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -19,9 +25,9 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 61863,
-    "open_issues_count": 237,
-    "forks_count": 1606
+    "stargazers_count": 62915,
+    "open_issues_count": 266,
+    "forks_count": 1639
   },
   {
     "full_name": "github/semantic",
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "karanpratapsingh/learn-go",
-    "stargazers_count": 1032,
+    "stargazers_count": 1035,
     "open_issues_count": 0,
     "forks_count": 132
   },
@@ -43,25 +49,25 @@
   },
   {
     "full_name": "nitefood/asn",
-    "stargazers_count": 1496,
+    "stargazers_count": 1498,
     "open_issues_count": 0,
     "forks_count": 171
   },
   {
     "full_name": "ultrafunkamsterdam/undetected-chromedriver",
-    "stargazers_count": 11165,
-    "open_issues_count": 1098,
-    "forks_count": 1231
+    "stargazers_count": 11178,
+    "open_issues_count": 1099,
+    "forks_count": 1234
   },
   {
     "full_name": "rfc1036/whois",
-    "stargazers_count": 532,
-    "open_issues_count": 16,
+    "stargazers_count": 534,
+    "open_issues_count": 17,
     "forks_count": 121
   },
   {
     "full_name": "degrigis/awesome-angr",
-    "stargazers_count": 176,
+    "stargazers_count": 177,
     "open_issues_count": 0,
     "forks_count": 10
   }
