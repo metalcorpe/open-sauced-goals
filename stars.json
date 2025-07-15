@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "aminalaee/sqladmin",
+    "stargazers_count": 2252,
+    "open_issues_count": 89,
+    "forks_count": 234
+  },
+  {
     "full_name": "anthropics/prompt-eng-interactive-tutorial",
-    "stargazers_count": 16340,
+    "stargazers_count": 16518,
     "open_issues_count": 26,
-    "forks_count": 1501
+    "forks_count": 1523
   },
   {
     "full_name": "Jaennaet/pISSStream",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 66185,
+    "stargazers_count": 67942,
     "open_issues_count": 8,
-    "forks_count": 1252
+    "forks_count": 1278
   },
   {
     "full_name": "funnydman/pymapme",
@@ -37,21 +43,21 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 64368,
-    "open_issues_count": 240,
+    "stargazers_count": 64448,
+    "open_issues_count": 239,
     "forks_count": 1682
   },
   {
     "full_name": "github/semantic",
-    "stargazers_count": 9042,
+    "stargazers_count": 9044,
     "open_issues_count": 0,
     "forks_count": 458
   },
   {
     "full_name": "karanpratapsingh/learn-go",
-    "stargazers_count": 1053,
+    "stargazers_count": 1056,
     "open_issues_count": 0,
-    "forks_count": 133
+    "forks_count": 135
   },
   {
     "full_name": "metalcorpe/payshield-rest-gopher",
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "nitefood/asn",
-    "stargazers_count": 1531,
+    "stargazers_count": 1533,
     "open_issues_count": 0,
     "forks_count": 173
   },
   {
     "full_name": "ultrafunkamsterdam/undetected-chromedriver",
-    "stargazers_count": 11422,
-    "open_issues_count": 1119,
-    "forks_count": 1258
+    "stargazers_count": 11440,
+    "open_issues_count": 1122,
+    "forks_count": 1260
   },
   {
     "full_name": "rfc1036/whois",
