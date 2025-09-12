@@ -1,14 +1,32 @@
 [
   {
+    "full_name": "ftsagkris/singleline",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ftsagkris/pyng",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ftsagkris/croissant",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "googleapis/release-please-action",
-    "stargazers_count": 2103,
-    "open_issues_count": 122,
+    "stargazers_count": 2104,
+    "open_issues_count": 113,
     "forks_count": 272
   },
   {
     "full_name": "stripe/pg-schema-diff",
-    "stargazers_count": 680,
-    "open_issues_count": 53,
+    "stargazers_count": 687,
+    "open_issues_count": 54,
     "forks_count": 42
   },
   {
@@ -19,63 +37,63 @@
   },
   {
     "full_name": "cyprieng/github-breakout",
-    "stargazers_count": 672,
+    "stargazers_count": 714,
     "open_issues_count": 0,
-    "forks_count": 63
+    "forks_count": 68
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 258839,
-    "open_issues_count": 491,
-    "forks_count": 26264
+    "stargazers_count": 259265,
+    "open_issues_count": 490,
+    "forks_count": 26272
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 37731,
-    "open_issues_count": 142,
+    "stargazers_count": 37751,
+    "open_issues_count": 141,
     "forks_count": 4110
   },
   {
     "full_name": "gopasspw/gopass",
-    "stargazers_count": 6455,
-    "open_issues_count": 89,
+    "stargazers_count": 6462,
+    "open_issues_count": 90,
     "forks_count": 522
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 73027,
-    "open_issues_count": 340,
-    "forks_count": 4038
+    "stargazers_count": 73155,
+    "open_issues_count": 342,
+    "forks_count": 4044
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 7838,
+    "stargazers_count": 7839,
     "open_issues_count": 1,
-    "forks_count": 649
+    "forks_count": 650
   },
   {
     "full_name": "aminalaee/sqladmin",
-    "stargazers_count": 2333,
+    "stargazers_count": 2337,
     "open_issues_count": 101,
-    "forks_count": 242
+    "forks_count": 243
   },
   {
     "full_name": "anthropics/prompt-eng-interactive-tutorial",
-    "stargazers_count": 18177,
-    "open_issues_count": 28,
-    "forks_count": 1803
+    "stargazers_count": 18262,
+    "open_issues_count": 29,
+    "forks_count": 1817
   },
   {
     "full_name": "Jaennaet/pISSStream",
-    "stargazers_count": 1868,
+    "stargazers_count": 1870,
     "open_issues_count": 7,
     "forks_count": 33
   },
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 95245,
+    "stargazers_count": 96295,
     "open_issues_count": 19,
-    "forks_count": 1769
+    "forks_count": 1784
   },
   {
     "full_name": "funnydman/pymapme",
@@ -97,19 +115,19 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 65618,
-    "open_issues_count": 252,
-    "forks_count": 1727
+    "stargazers_count": 65669,
+    "open_issues_count": 254,
+    "forks_count": 1728
   },
   {
     "full_name": "github/semantic",
-    "stargazers_count": 9053,
+    "stargazers_count": 9054,
     "open_issues_count": 0,
     "forks_count": 458
   },
   {
     "full_name": "karanpratapsingh/learn-go",
-    "stargazers_count": 1096,
+    "stargazers_count": 1101,
     "open_issues_count": 0,
     "forks_count": 141
   },
@@ -121,19 +139,19 @@
   },
   {
     "full_name": "nitefood/asn",
-    "stargazers_count": 1724,
+    "stargazers_count": 1726,
     "open_issues_count": 0,
-    "forks_count": 184
+    "forks_count": 186
   },
   {
     "full_name": "ultrafunkamsterdam/undetected-chromedriver",
-    "stargazers_count": 11722,
-    "open_issues_count": 1126,
+    "stargazers_count": 11740,
+    "open_issues_count": 1125,
     "forks_count": 1281
   },
   {
     "full_name": "rfc1036/whois",
-    "stargazers_count": 555,
+    "stargazers_count": 556,
     "open_issues_count": 19,
     "forks_count": 122
   },
