@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "jesseduffield/lazydocker",
+    "stargazers_count": 46766,
+    "open_issues_count": 231,
+    "forks_count": 1468
+  },
+  {
+    "full_name": "docling-project/docling",
+    "stargazers_count": 41413,
+    "open_issues_count": 650,
+    "forks_count": 2946
+  },
+  {
     "full_name": "ftsagkris/singleline",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -19,81 +31,81 @@
   },
   {
     "full_name": "googleapis/release-please-action",
-    "stargazers_count": 2126,
+    "stargazers_count": 2128,
     "open_issues_count": 105,
-    "forks_count": 280
+    "forks_count": 281
   },
   {
     "full_name": "stripe/pg-schema-diff",
-    "stargazers_count": 722,
-    "open_issues_count": 56,
-    "forks_count": 46
+    "stargazers_count": 724,
+    "open_issues_count": 57,
+    "forks_count": 47
   },
   {
     "full_name": "theory/pgtap",
-    "stargazers_count": 1088,
+    "stargazers_count": 1093,
     "open_issues_count": 50,
     "forks_count": 103
   },
   {
     "full_name": "cyprieng/github-breakout",
-    "stargazers_count": 834,
+    "stargazers_count": 839,
     "open_issues_count": 1,
     "forks_count": 90
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 263434,
-    "open_issues_count": 493,
-    "forks_count": 26410
+    "stargazers_count": 264109,
+    "open_issues_count": 495,
+    "forks_count": 26435
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 37964,
+    "stargazers_count": 37991,
     "open_issues_count": 152,
-    "forks_count": 4132
+    "forks_count": 4140
   },
   {
     "full_name": "gopasspw/gopass",
-    "stargazers_count": 6509,
+    "stargazers_count": 6511,
     "open_issues_count": 81,
-    "forks_count": 520
+    "forks_count": 519
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 80721,
-    "open_issues_count": 358,
-    "forks_count": 4475
+    "stargazers_count": 81344,
+    "open_issues_count": 359,
+    "forks_count": 4511
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 7945,
+    "stargazers_count": 7954,
     "open_issues_count": 0,
     "forks_count": 660
   },
   {
     "full_name": "aminalaee/sqladmin",
-    "stargazers_count": 2373,
+    "stargazers_count": 2382,
     "open_issues_count": 98,
-    "forks_count": 246
+    "forks_count": 248
   },
   {
     "full_name": "anthropics/prompt-eng-interactive-tutorial",
-    "stargazers_count": 18660,
-    "open_issues_count": 29,
-    "forks_count": 1871
+    "stargazers_count": 21150,
+    "open_issues_count": 31,
+    "forks_count": 2020
   },
   {
     "full_name": "Jaennaet/pISSStream",
-    "stargazers_count": 1883,
+    "stargazers_count": 1884,
     "open_issues_count": 7,
     "forks_count": 33
   },
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 104251,
+    "stargazers_count": 105739,
     "open_issues_count": 19,
-    "forks_count": 1944
+    "forks_count": 1980
   },
   {
     "full_name": "funnydman/pymapme",
@@ -115,19 +127,19 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 66230,
-    "open_issues_count": 262,
-    "forks_count": 1753
+    "stargazers_count": 66305,
+    "open_issues_count": 263,
+    "forks_count": 1754
   },
   {
     "full_name": "github/semantic",
-    "stargazers_count": 9059,
+    "stargazers_count": 9061,
     "open_issues_count": 0,
-    "forks_count": 459
+    "forks_count": 458
   },
   {
     "full_name": "karanpratapsingh/learn-go",
-    "stargazers_count": 1114,
+    "stargazers_count": 1117,
     "open_issues_count": 1,
     "forks_count": 147
   },
@@ -139,19 +151,19 @@
   },
   {
     "full_name": "nitefood/asn",
-    "stargazers_count": 1755,
+    "stargazers_count": 1757,
     "open_issues_count": 1,
     "forks_count": 188
   },
   {
     "full_name": "ultrafunkamsterdam/undetected-chromedriver",
-    "stargazers_count": 11828,
+    "stargazers_count": 11851,
     "open_issues_count": 1132,
-    "forks_count": 1284
+    "forks_count": 1285
   },
   {
     "full_name": "rfc1036/whois",
-    "stargazers_count": 558,
+    "stargazers_count": 559,
     "open_issues_count": 19,
     "forks_count": 122
   },
