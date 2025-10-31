@@ -1,15 +1,15 @@
 [
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 47167,
+    "stargazers_count": 47227,
     "open_issues_count": 234,
-    "forks_count": 1481
+    "forks_count": 1482
   },
   {
     "full_name": "docling-project/docling",
-    "stargazers_count": 42348,
-    "open_issues_count": 678,
-    "forks_count": 3037
+    "stargazers_count": 42696,
+    "open_issues_count": 679,
+    "forks_count": 3054
   },
   {
     "full_name": "ftsagkris/singleline",
@@ -31,81 +31,81 @@
   },
   {
     "full_name": "googleapis/release-please-action",
-    "stargazers_count": 2147,
+    "stargazers_count": 2150,
     "open_issues_count": 106,
     "forks_count": 282
   },
   {
     "full_name": "stripe/pg-schema-diff",
-    "stargazers_count": 728,
+    "stargazers_count": 730,
     "open_issues_count": 57,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "theory/pgtap",
-    "stargazers_count": 1100,
+    "stargazers_count": 1101,
     "open_issues_count": 51,
-    "forks_count": 104
+    "forks_count": 103
   },
   {
     "full_name": "cyprieng/github-breakout",
-    "stargazers_count": 842,
+    "stargazers_count": 843,
     "open_issues_count": 1,
     "forks_count": 90
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 266605,
+    "stargazers_count": 267084,
     "open_issues_count": 505,
-    "forks_count": 26599
+    "forks_count": 26618
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 38072,
-    "open_issues_count": 149,
-    "forks_count": 4157
+    "stargazers_count": 38103,
+    "open_issues_count": 155,
+    "forks_count": 4160
   },
   {
     "full_name": "gopasspw/gopass",
-    "stargazers_count": 6533,
+    "stargazers_count": 6536,
     "open_issues_count": 82,
-    "forks_count": 519
+    "forks_count": 520
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 82170,
-    "open_issues_count": 368,
-    "forks_count": 4610
+    "stargazers_count": 82291,
+    "open_issues_count": 370,
+    "forks_count": 4629
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 7975,
+    "stargazers_count": 7978,
     "open_issues_count": 0,
-    "forks_count": 660
+    "forks_count": 659
   },
   {
     "full_name": "aminalaee/sqladmin",
-    "stargazers_count": 2402,
-    "open_issues_count": 100,
-    "forks_count": 250
+    "stargazers_count": 2407,
+    "open_issues_count": 101,
+    "forks_count": 251
   },
   {
     "full_name": "anthropics/prompt-eng-interactive-tutorial",
-    "stargazers_count": 25203,
+    "stargazers_count": 25447,
     "open_issues_count": 36,
-    "forks_count": 2295
+    "forks_count": 2312
   },
   {
     "full_name": "Jaennaet/pISSStream",
-    "stargazers_count": 1887,
+    "stargazers_count": 1886,
     "open_issues_count": 7,
     "forks_count": 33
   },
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 111745,
+    "stargazers_count": 112985,
     "open_issues_count": 22,
-    "forks_count": 2069
+    "forks_count": 2080
   },
   {
     "full_name": "funnydman/pymapme",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 66604,
-    "open_issues_count": 266,
-    "forks_count": 1763
+    "stargazers_count": 66695,
+    "open_issues_count": 269,
+    "forks_count": 1771
   },
   {
     "full_name": "github/semantic",
-    "stargazers_count": 9062,
+    "stargazers_count": 9060,
     "open_issues_count": 0,
     "forks_count": 460
   },
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "nitefood/asn",
-    "stargazers_count": 1764,
+    "stargazers_count": 1765,
     "open_issues_count": 1,
     "forks_count": 188
   },
   {
     "full_name": "ultrafunkamsterdam/undetected-chromedriver",
-    "stargazers_count": 11925,
-    "open_issues_count": 1137,
-    "forks_count": 1290
+    "stargazers_count": 11935,
+    "open_issues_count": 1138,
+    "forks_count": 1291
   },
   {
     "full_name": "rfc1036/whois",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "degrigis/awesome-angr",
-    "stargazers_count": 182,
+    "stargazers_count": 183,
     "open_issues_count": 0,
     "forks_count": 10
   }
