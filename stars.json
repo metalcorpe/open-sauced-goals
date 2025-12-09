@@ -7,27 +7,27 @@
   },
   {
     "full_name": "AmoyLab/Unla",
-    "stargazers_count": 1941,
+    "stargazers_count": 1945,
     "open_issues_count": 90,
     "forks_count": 161
   },
   {
     "full_name": "Krukov/cashews",
     "stargazers_count": 527,
-    "open_issues_count": 30,
+    "open_issues_count": 21,
     "forks_count": 40
   },
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 48212,
-    "open_issues_count": 245,
-    "forks_count": 1529
+    "stargazers_count": 48287,
+    "open_issues_count": 246,
+    "forks_count": 1531
   },
   {
     "full_name": "docling-project/docling",
-    "stargazers_count": 45833,
-    "open_issues_count": 736,
-    "forks_count": 3239
+    "stargazers_count": 46184,
+    "open_issues_count": 753,
+    "forks_count": 3266
   },
   {
     "full_name": "ftsagkris/singleline",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "googleapis/release-please-action",
-    "stargazers_count": 2200,
-    "open_issues_count": 110,
+    "stargazers_count": 2203,
+    "open_issues_count": 112,
     "forks_count": 290
   },
   {
     "full_name": "stripe/pg-schema-diff",
-    "stargazers_count": 752,
+    "stargazers_count": 753,
     "open_issues_count": 61,
     "forks_count": 50
   },
@@ -73,57 +73,57 @@
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 272448,
-    "open_issues_count": 522,
-    "forks_count": 26855
+    "stargazers_count": 273017,
+    "open_issues_count": 523,
+    "forks_count": 26874
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 38273,
-    "open_issues_count": 153,
-    "forks_count": 4179
+    "stargazers_count": 38279,
+    "open_issues_count": 150,
+    "forks_count": 4182
   },
   {
     "full_name": "gopasspw/gopass",
-    "stargazers_count": 6588,
+    "stargazers_count": 6596,
     "open_issues_count": 91,
-    "forks_count": 521
+    "forks_count": 523
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 83838,
-    "open_issues_count": 390,
-    "forks_count": 4807
+    "stargazers_count": 84014,
+    "open_issues_count": 393,
+    "forks_count": 4828
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 8018,
+    "stargazers_count": 8021,
     "open_issues_count": 0,
-    "forks_count": 659
+    "forks_count": 660
   },
   {
     "full_name": "aminalaee/sqladmin",
-    "stargazers_count": 2560,
-    "open_issues_count": 95,
-    "forks_count": 256
+    "stargazers_count": 2564,
+    "open_issues_count": 96,
+    "forks_count": 258
   },
   {
     "full_name": "anthropics/prompt-eng-interactive-tutorial",
-    "stargazers_count": 27074,
+    "stargazers_count": 27145,
     "open_issues_count": 39,
-    "forks_count": 2540
+    "forks_count": 2563
   },
   {
     "full_name": "Jaennaet/pISSStream",
-    "stargazers_count": 1889,
+    "stargazers_count": 1890,
     "open_issues_count": 7,
     "forks_count": 32
   },
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 126813,
-    "open_issues_count": 23,
-    "forks_count": 2275
+    "stargazers_count": 128008,
+    "open_issues_count": 24,
+    "forks_count": 2296
   },
   {
     "full_name": "funnydman/pymapme",
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 67321,
+    "stargazers_count": 67387,
     "open_issues_count": 275,
-    "forks_count": 1795
+    "forks_count": 1797
   },
   {
     "full_name": "github/semantic",
-    "stargazers_count": 9061,
+    "stargazers_count": 9059,
     "open_issues_count": 0,
     "forks_count": 459
   },
   {
     "full_name": "karanpratapsingh/learn-go",
-    "stargazers_count": 1167,
+    "stargazers_count": 1168,
     "open_issues_count": 0,
-    "forks_count": 150
+    "forks_count": 151
   },
   {
     "full_name": "metalcorpe/payshield-rest-gopher",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "nitefood/asn",
-    "stargazers_count": 1790,
+    "stargazers_count": 1793,
     "open_issues_count": 1,
     "forks_count": 189
   },
   {
     "full_name": "ultrafunkamsterdam/undetected-chromedriver",
-    "stargazers_count": 12074,
-    "open_issues_count": 1141,
-    "forks_count": 1303
+    "stargazers_count": 12089,
+    "open_issues_count": 1140,
+    "forks_count": 1304
   }
 ]
