@@ -1,9 +1,9 @@
 [
   {
     "full_name": "reacherhq/check-if-email-exists",
-    "stargazers_count": 7014,
+    "stargazers_count": 7118,
     "open_issues_count": 85,
-    "forks_count": 501
+    "forks_count": 508
   },
   {
     "full_name": "attaryz/pkg-version",
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "AmoyLab/Unla",
-    "stargazers_count": 1972,
+    "stargazers_count": 1977,
     "open_issues_count": 93,
     "forks_count": 162
   },
   {
     "full_name": "Krukov/cashews",
-    "stargazers_count": 533,
-    "open_issues_count": 13,
+    "stargazers_count": 538,
+    "open_issues_count": 14,
     "forks_count": 39
   },
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 48589,
-    "open_issues_count": 247,
-    "forks_count": 1539
+    "stargazers_count": 48663,
+    "open_issues_count": 248,
+    "forks_count": 1540
   },
   {
     "full_name": "docling-project/docling",
-    "stargazers_count": 47787,
-    "open_issues_count": 775,
-    "forks_count": 3345
+    "stargazers_count": 48370,
+    "open_issues_count": 779,
+    "forks_count": 3384
   },
   {
     "full_name": "ftsagkris/singleline",
@@ -61,69 +61,69 @@
   },
   {
     "full_name": "googleapis/release-please-action",
-    "stargazers_count": 2226,
+    "stargazers_count": 2231,
     "open_issues_count": 117,
     "forks_count": 293
   },
   {
     "full_name": "stripe/pg-schema-diff",
-    "stargazers_count": 758,
+    "stargazers_count": 759,
     "open_issues_count": 63,
     "forks_count": 51
   },
   {
     "full_name": "theory/pgtap",
-    "stargazers_count": 1108,
+    "stargazers_count": 1109,
     "open_issues_count": 51,
     "forks_count": 104
   },
   {
     "full_name": "cyprieng/github-breakout",
-    "stargazers_count": 848,
+    "stargazers_count": 849,
     "open_issues_count": 1,
-    "forks_count": 89
+    "forks_count": 91
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 275406,
+    "stargazers_count": 275949,
     "open_issues_count": 531,
-    "forks_count": 26957
+    "forks_count": 26971
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 38332,
-    "open_issues_count": 150,
-    "forks_count": 4188
+    "stargazers_count": 38355,
+    "open_issues_count": 152,
+    "forks_count": 4189
   },
   {
     "full_name": "gopasspw/gopass",
-    "stargazers_count": 6621,
-    "open_issues_count": 83,
+    "stargazers_count": 6624,
+    "open_issues_count": 85,
     "forks_count": 525
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 84612,
-    "open_issues_count": 407,
-    "forks_count": 4872
+    "stargazers_count": 84762,
+    "open_issues_count": 410,
+    "forks_count": 4883
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 8085,
+    "stargazers_count": 8090,
     "open_issues_count": 0,
     "forks_count": 667
   },
   {
     "full_name": "aminalaee/sqladmin",
-    "stargazers_count": 2580,
-    "open_issues_count": 102,
-    "forks_count": 261
+    "stargazers_count": 2583,
+    "open_issues_count": 98,
+    "forks_count": 262
   },
   {
     "full_name": "anthropics/prompt-eng-interactive-tutorial",
-    "stargazers_count": 27584,
-    "open_issues_count": 39,
-    "forks_count": 2620
+    "stargazers_count": 27886,
+    "open_issues_count": 40,
+    "forks_count": 2646
   },
   {
     "full_name": "Jaennaet/pISSStream",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 133893,
-    "open_issues_count": 24,
-    "forks_count": 2378
+    "stargazers_count": 135545,
+    "open_issues_count": 26,
+    "forks_count": 2412
   },
   {
     "full_name": "funnydman/pymapme",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 67746,
-    "open_issues_count": 276,
-    "forks_count": 1807
+    "stargazers_count": 67794,
+    "open_issues_count": 278,
+    "forks_count": 1810
   },
   {
     "full_name": "github/semantic",
