@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "jcrist/msgspec",
+    "stargazers_count": 3545,
+    "open_issues_count": 212,
+    "forks_count": 130
+  },
+  {
     "full_name": "reacherhq/check-if-email-exists",
-    "stargazers_count": 7424,
+    "stargazers_count": 7441,
     "open_issues_count": 84,
-    "forks_count": 530
+    "forks_count": 532
   },
   {
     "full_name": "attaryz/pkg-version",
@@ -19,27 +25,27 @@
   },
   {
     "full_name": "AmoyLab/Unla",
-    "stargazers_count": 2016,
+    "stargazers_count": 2020,
     "open_issues_count": 85,
-    "forks_count": 167
+    "forks_count": 169
   },
   {
     "full_name": "Krukov/cashews",
     "stargazers_count": 548,
     "open_issues_count": 17,
-    "forks_count": 40
+    "forks_count": 39
   },
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 49375,
-    "open_issues_count": 254,
-    "forks_count": 1564
+    "stargazers_count": 49426,
+    "open_issues_count": 256,
+    "forks_count": 1565
   },
   {
     "full_name": "docling-project/docling",
-    "stargazers_count": 51199,
-    "open_issues_count": 810,
-    "forks_count": 3506
+    "stargazers_count": 51502,
+    "open_issues_count": 811,
+    "forks_count": 3515
   },
   {
     "full_name": "ftsagkris/singleline",
@@ -63,11 +69,11 @@
     "full_name": "googleapis/release-please-action",
     "stargazers_count": 2262,
     "open_issues_count": 120,
-    "forks_count": 298
+    "forks_count": 299
   },
   {
     "full_name": "stripe/pg-schema-diff",
-    "stargazers_count": 782,
+    "stargazers_count": 784,
     "open_issues_count": 54,
     "forks_count": 52
   },
@@ -79,51 +85,51 @@
   },
   {
     "full_name": "cyprieng/github-breakout",
-    "stargazers_count": 851,
+    "stargazers_count": 852,
     "open_issues_count": 1,
     "forks_count": 91
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 280042,
-    "open_issues_count": 16,
-    "forks_count": 27135
+    "stargazers_count": 280524,
+    "open_issues_count": 19,
+    "forks_count": 27155
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 38490,
+    "stargazers_count": 38496,
     "open_issues_count": 154,
-    "forks_count": 4203
+    "forks_count": 4210
   },
   {
     "full_name": "gopasspw/gopass",
-    "stargazers_count": 6665,
+    "stargazers_count": 6668,
     "open_issues_count": 97,
     "forks_count": 528
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 85839,
-    "open_issues_count": 421,
-    "forks_count": 4962
+    "stargazers_count": 86024,
+    "open_issues_count": 422,
+    "forks_count": 4973
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 8127,
+    "stargazers_count": 8131,
     "open_issues_count": 0,
-    "forks_count": 669
+    "forks_count": 668
   },
   {
     "full_name": "aminalaee/sqladmin",
-    "stargazers_count": 2628,
+    "stargazers_count": 2636,
     "open_issues_count": 108,
     "forks_count": 268
   },
   {
     "full_name": "anthropics/prompt-eng-interactive-tutorial",
-    "stargazers_count": 29200,
-    "open_issues_count": 45,
-    "forks_count": 2851
+    "stargazers_count": 29259,
+    "open_issues_count": 46,
+    "forks_count": 2859
   },
   {
     "full_name": "Jaennaet/pISSStream",
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 143664,
+    "stargazers_count": 144383,
     "open_issues_count": 27,
-    "forks_count": 2529
+    "forks_count": 2533
   },
   {
     "full_name": "funnydman/pymapme",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 68373,
+    "stargazers_count": 68425,
     "open_issues_count": 281,
-    "forks_count": 1833
+    "forks_count": 1832
   },
   {
     "full_name": "github/semantic",
     "stargazers_count": 9058,
     "open_issues_count": 0,
-    "forks_count": 458
+    "forks_count": 457
   },
   {
     "full_name": "karanpratapsingh/learn-go",
-    "stargazers_count": 1189,
+    "stargazers_count": 1192,
     "open_issues_count": 0,
     "forks_count": 153
-  },
-  {
-    "full_name": "metalcorpe/payshield-rest-gopher",
-    "stargazers_count": 1,
-    "open_issues_count": 5,
-    "forks_count": 0
   }
 ]
