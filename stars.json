@@ -2,20 +2,20 @@
   {
     "full_name": "miglen/consensus",
     "stargazers_count": 3,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "dmno-dev/varlock",
-    "stargazers_count": 2546,
-    "open_issues_count": 34,
-    "forks_count": 60
+    "stargazers_count": 2655,
+    "open_issues_count": 29,
+    "forks_count": 67
   },
   {
     "full_name": "microsoft/agent-lightning",
-    "stargazers_count": 15470,
+    "stargazers_count": 15492,
     "open_issues_count": 140,
-    "forks_count": 1323
+    "forks_count": 1325
   },
   {
     "full_name": "cj-vana/claude-swarm",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "jcrist/msgspec",
-    "stargazers_count": 3649,
-    "open_issues_count": 226,
-    "forks_count": 138
+    "stargazers_count": 3653,
+    "open_issues_count": 227,
+    "forks_count": 140
   },
   {
     "full_name": "reacherhq/check-if-email-exists",
-    "stargazers_count": 8448,
-    "open_issues_count": 87,
-    "forks_count": 592
+    "stargazers_count": 8476,
+    "open_issues_count": 88,
+    "forks_count": 596
   },
   {
     "full_name": "attaryz/pkg-version",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "AmoyLab/Unla",
-    "stargazers_count": 2059,
-    "open_issues_count": 85,
+    "stargazers_count": 2069,
+    "open_issues_count": 86,
     "forks_count": 169
   },
   {
     "full_name": "Krukov/cashews",
-    "stargazers_count": 567,
-    "open_issues_count": 19,
+    "stargazers_count": 569,
+    "open_issues_count": 20,
     "forks_count": 40
   },
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 50161,
-    "open_issues_count": 258,
-    "forks_count": 1589
+    "stargazers_count": 50242,
+    "open_issues_count": 261,
+    "forks_count": 1592
   },
   {
     "full_name": "docling-project/docling",
-    "stargazers_count": 55931,
-    "open_issues_count": 852,
-    "forks_count": 3784
+    "stargazers_count": 56147,
+    "open_issues_count": 857,
+    "forks_count": 3808
   },
   {
     "full_name": "ftsagkris/singleline",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "googleapis/release-please-action",
-    "stargazers_count": 2328,
-    "open_issues_count": 125,
-    "forks_count": 309
+    "stargazers_count": 2331,
+    "open_issues_count": 126,
+    "forks_count": 310
   },
   {
     "full_name": "stripe/pg-schema-diff",
@@ -109,63 +109,63 @@
   },
   {
     "full_name": "cyprieng/github-breakout",
-    "stargazers_count": 854,
+    "stargazers_count": 853,
     "open_issues_count": 1,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 287541,
-    "open_issues_count": 17,
-    "forks_count": 27416
+    "stargazers_count": 288021,
+    "open_issues_count": 19,
+    "forks_count": 27440
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 38703,
-    "open_issues_count": 154,
-    "forks_count": 4238
+    "stargazers_count": 38709,
+    "open_issues_count": 142,
+    "forks_count": 4239
   },
   {
     "full_name": "gopasspw/gopass",
-    "stargazers_count": 6747,
-    "open_issues_count": 85,
-    "forks_count": 526
+    "stargazers_count": 6749,
+    "open_issues_count": 86,
+    "forks_count": 527
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 90843,
-    "open_issues_count": 470,
-    "forks_count": 5367
+    "stargazers_count": 90996,
+    "open_issues_count": 475,
+    "forks_count": 5383
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 8208,
+    "stargazers_count": 8214,
     "open_issues_count": 1,
-    "forks_count": 675
+    "forks_count": 676
   },
   {
     "full_name": "aminalaee/sqladmin",
-    "stargazers_count": 2682,
+    "stargazers_count": 2688,
     "open_issues_count": 114,
     "forks_count": 270
   },
   {
     "full_name": "anthropics/prompt-eng-interactive-tutorial",
-    "stargazers_count": 33507,
+    "stargazers_count": 33792,
     "open_issues_count": 58,
-    "forks_count": 3434
+    "forks_count": 3484
   },
   {
     "full_name": "Jaennaet/pISSStream",
-    "stargazers_count": 1904,
+    "stargazers_count": 1906,
     "open_issues_count": 7,
     "forks_count": 31
   },
   {
     "full_name": "DigitalPlatDev/FreeDomain",
-    "stargazers_count": 152728,
+    "stargazers_count": 153229,
     "open_issues_count": 31,
-    "forks_count": 2624
+    "forks_count": 2627
   },
   {
     "full_name": "funnydman/pymapme",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "ccxt/ast-transpiler",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 4,
-    "forks_count": 13
+    "forks_count": 14
   }
 ]
