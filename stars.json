@@ -7,15 +7,15 @@
   },
   {
     "full_name": "MemPalace/mempalace",
-    "stargazers_count": 55971,
-    "open_issues_count": 578,
-    "forks_count": 7246
+    "stargazers_count": 56176,
+    "open_issues_count": 557,
+    "forks_count": 7270
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 59189,
+    "stargazers_count": 59238,
     "open_issues_count": 16,
-    "forks_count": 3464
+    "forks_count": 3473
   },
   {
     "full_name": "readmarginalia/marginalia",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 476938,
-    "open_issues_count": 84,
-    "forks_count": 35464
+    "stargazers_count": 478069,
+    "open_issues_count": 85,
+    "forks_count": 35503
   },
   {
     "full_name": "Netflix/vmaf",
-    "stargazers_count": 5372,
+    "stargazers_count": 5383,
     "open_issues_count": 96,
-    "forks_count": 821
+    "forks_count": 823
   },
   {
     "full_name": "miglen/consensus",
@@ -43,33 +43,33 @@
   },
   {
     "full_name": "dmno-dev/varlock",
-    "stargazers_count": 3647,
-    "open_issues_count": 43,
-    "forks_count": 102
+    "stargazers_count": 3662,
+    "open_issues_count": 45,
+    "forks_count": 103
   },
   {
     "full_name": "microsoft/agent-lightning",
-    "stargazers_count": 17312,
+    "stargazers_count": 17328,
     "open_issues_count": 156,
     "forks_count": 1517
   },
   {
     "full_name": "cj-vana/claude-swarm",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "msgspec/msgspec",
-    "stargazers_count": 3815,
-    "open_issues_count": 215,
+    "stargazers_count": 3821,
+    "open_issues_count": 209,
     "forks_count": 155
   },
   {
     "full_name": "reacherhq/check-if-email-exists",
-    "stargazers_count": 8798,
+    "stargazers_count": 8803,
     "open_issues_count": 88,
-    "forks_count": 634
+    "forks_count": 635
   },
   {
     "full_name": "attaryz/pkg-version",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "AmoyLab/Unla",
-    "stargazers_count": 2144,
+    "stargazers_count": 2145,
     "open_issues_count": 92,
     "forks_count": 175
   },
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 51398,
+    "stargazers_count": 51442,
     "open_issues_count": 279,
     "forks_count": 1628
   },
   {
     "full_name": "docling-project/docling",
-    "stargazers_count": 61832,
-    "open_issues_count": 929,
-    "forks_count": 4325
+    "stargazers_count": 61991,
+    "open_issues_count": 927,
+    "forks_count": 4340
   },
   {
     "full_name": "ftsagkris/singleline",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "googleapis/release-please-action",
-    "stargazers_count": 2448,
+    "stargazers_count": 2452,
     "open_issues_count": 131,
     "forks_count": 320
   },
   {
     "full_name": "stripe/pg-schema-diff",
-    "stargazers_count": 860,
+    "stargazers_count": 861,
     "open_issues_count": 79,
     "forks_count": 71
   },
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 303672,
-    "open_issues_count": 18,
-    "forks_count": 28115
+    "stargazers_count": 304378,
+    "open_issues_count": 20,
+    "forks_count": 28136
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 39151,
-    "open_issues_count": 97,
-    "forks_count": 4334
+    "stargazers_count": 39188,
+    "open_issues_count": 89,
+    "forks_count": 4333
   },
   {
     "full_name": "gopasspw/gopass",
-    "stargazers_count": 6934,
+    "stargazers_count": 6938,
     "open_issues_count": 85,
-    "forks_count": 541
+    "forks_count": 542
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 155728,
-    "open_issues_count": 853,
-    "forks_count": 10823
+    "stargazers_count": 157865,
+    "open_issues_count": 860,
+    "forks_count": 11021
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 8304,
+    "stargazers_count": 8306,
     "open_issues_count": 1,
     "forks_count": 680
   }
