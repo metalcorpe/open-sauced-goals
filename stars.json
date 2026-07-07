@@ -7,15 +7,15 @@
   },
   {
     "full_name": "MemPalace/mempalace",
-    "stargazers_count": 56900,
-    "open_issues_count": 564,
-    "forks_count": 7350
+    "stargazers_count": 57045,
+    "open_issues_count": 579,
+    "forks_count": 7372
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 59390,
+    "stargazers_count": 59467,
     "open_issues_count": 17,
-    "forks_count": 3488
+    "forks_count": 3494
   },
   {
     "full_name": "readmarginalia/marginalia",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 480970,
-    "open_issues_count": 88,
-    "forks_count": 35648
+    "stargazers_count": 482444,
+    "open_issues_count": 91,
+    "forks_count": 35742
   },
   {
     "full_name": "Netflix/vmaf",
-    "stargazers_count": 5393,
+    "stargazers_count": 5401,
     "open_issues_count": 99,
     "forks_count": 823
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "dmno-dev/varlock",
-    "stargazers_count": 3697,
-    "open_issues_count": 48,
+    "stargazers_count": 3728,
+    "open_issues_count": 42,
     "forks_count": 106
   },
   {
     "full_name": "microsoft/agent-lightning",
-    "stargazers_count": 17368,
-    "open_issues_count": 154,
-    "forks_count": 1521
+    "stargazers_count": 17374,
+    "open_issues_count": 156,
+    "forks_count": 1520
   },
   {
     "full_name": "cj-vana/claude-swarm",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "msgspec/msgspec",
-    "stargazers_count": 3841,
-    "open_issues_count": 204,
+    "stargazers_count": 3850,
+    "open_issues_count": 207,
     "forks_count": 156
   },
   {
     "full_name": "reacherhq/check-if-email-exists",
-    "stargazers_count": 9113,
+    "stargazers_count": 9124,
     "open_issues_count": 88,
-    "forks_count": 654
+    "forks_count": 653
   },
   {
     "full_name": "attaryz/pkg-version",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "AmoyLab/Unla",
-    "stargazers_count": 2162,
-    "open_issues_count": 91,
+    "stargazers_count": 2165,
+    "open_issues_count": 92,
     "forks_count": 175
   },
   {
     "full_name": "Krukov/cashews",
-    "stargazers_count": 583,
+    "stargazers_count": 586,
     "open_issues_count": 25,
     "forks_count": 40
   },
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 51571,
-    "open_issues_count": 280,
-    "forks_count": 1636
+    "stargazers_count": 51802,
+    "open_issues_count": 282,
+    "forks_count": 1641
   },
   {
     "full_name": "docling-project/docling",
-    "stargazers_count": 62555,
-    "open_issues_count": 939,
-    "forks_count": 4399
+    "stargazers_count": 62766,
+    "open_issues_count": 938,
+    "forks_count": 4421
   },
   {
     "full_name": "ftsagkris/singleline",
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "stripe/pg-schema-diff",
-    "stargazers_count": 862,
-    "open_issues_count": 80,
+    "stargazers_count": 863,
+    "open_issues_count": 79,
     "forks_count": 71
   },
   {
@@ -145,37 +145,37 @@
   },
   {
     "full_name": "cyprieng/github-breakout",
-    "stargazers_count": 852,
+    "stargazers_count": 851,
     "open_issues_count": 1,
     "forks_count": 94
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 306036,
-    "open_issues_count": 21,
-    "forks_count": 28205
+    "stargazers_count": 306739,
+    "open_issues_count": 23,
+    "forks_count": 28227
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 39235,
-    "open_issues_count": 88,
+    "stargazers_count": 39261,
+    "open_issues_count": 95,
     "forks_count": 4347
   },
   {
     "full_name": "gopasspw/gopass",
-    "stargazers_count": 6999,
-    "open_issues_count": 99,
+    "stargazers_count": 7010,
+    "open_issues_count": 95,
     "forks_count": 545
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 162523,
-    "open_issues_count": 822,
-    "forks_count": 11485
+    "stargazers_count": 163529,
+    "open_issues_count": 832,
+    "forks_count": 11599
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 8314,
+    "stargazers_count": 8317,
     "open_issues_count": 1,
     "forks_count": 680
   }
