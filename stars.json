@@ -7,15 +7,15 @@
   },
   {
     "full_name": "MemPalace/mempalace",
-    "stargazers_count": 57530,
-    "open_issues_count": 640,
-    "forks_count": 7423
+    "stargazers_count": 57672,
+    "open_issues_count": 649,
+    "forks_count": 7431
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 60075,
-    "open_issues_count": 18,
-    "forks_count": 3566
+    "stargazers_count": 60188,
+    "open_issues_count": 19,
+    "forks_count": 3582
   },
   {
     "full_name": "readmarginalia/marginalia",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 487128,
-    "open_issues_count": 94,
-    "forks_count": 35972
+    "stargazers_count": 488222,
+    "open_issues_count": 96,
+    "forks_count": 36016
   },
   {
     "full_name": "Netflix/vmaf",
-    "stargazers_count": 5417,
+    "stargazers_count": 5423,
     "open_issues_count": 109,
     "forks_count": 824
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "dmno-dev/varlock",
-    "stargazers_count": 3790,
-    "open_issues_count": 45,
+    "stargazers_count": 3807,
+    "open_issues_count": 48,
     "forks_count": 110
   },
   {
     "full_name": "microsoft/agent-lightning",
-    "stargazers_count": 17403,
+    "stargazers_count": 17420,
     "open_issues_count": 153,
-    "forks_count": 1527
+    "forks_count": 1524
   },
   {
     "full_name": "cj-vana/claude-swarm",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "msgspec/msgspec",
-    "stargazers_count": 3872,
+    "stargazers_count": 3880,
     "open_issues_count": 209,
-    "forks_count": 161
+    "forks_count": 162
   },
   {
     "full_name": "reacherhq/check-if-email-exists",
-    "stargazers_count": 9163,
+    "stargazers_count": 9166,
     "open_issues_count": 88,
-    "forks_count": 661
+    "forks_count": 662
   },
   {
     "full_name": "attaryz/pkg-version",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "AmoyLab/Unla",
-    "stargazers_count": 2177,
+    "stargazers_count": 2180,
     "open_issues_count": 92,
-    "forks_count": 178
+    "forks_count": 177
   },
   {
     "full_name": "Krukov/cashews",
-    "stargazers_count": 587,
+    "stargazers_count": 589,
     "open_issues_count": 26,
     "forks_count": 40
   },
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 52108,
+    "stargazers_count": 52141,
     "open_issues_count": 284,
-    "forks_count": 1656
+    "forks_count": 1660
   },
   {
     "full_name": "docling-project/docling",
-    "stargazers_count": 63531,
-    "open_issues_count": 934,
-    "forks_count": 4494
+    "stargazers_count": 63700,
+    "open_issues_count": 936,
+    "forks_count": 4514
   },
   {
     "full_name": "ftsagkris/singleline",
@@ -127,56 +127,56 @@
   },
   {
     "full_name": "googleapis/release-please-action",
-    "stargazers_count": 2476,
+    "stargazers_count": 2480,
     "open_issues_count": 131,
     "forks_count": 322
   },
   {
     "full_name": "stripe/pg-schema-diff",
     "stargazers_count": 866,
-    "open_issues_count": 81,
-    "forks_count": 73
+    "open_issues_count": 83,
+    "forks_count": 74
   },
   {
     "full_name": "theory/pgtap",
     "stargazers_count": 1155,
-    "open_issues_count": 53,
+    "open_issues_count": 54,
     "forks_count": 107
   },
   {
     "full_name": "cyprieng/github-breakout",
-    "stargazers_count": 849,
+    "stargazers_count": 851,
     "open_issues_count": 1,
     "forks_count": 93
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 309368,
+    "stargazers_count": 309973,
     "open_issues_count": 17,
-    "forks_count": 28350
+    "forks_count": 28364
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 39339,
-    "open_issues_count": 102,
-    "forks_count": 4375
+    "stargazers_count": 39351,
+    "open_issues_count": 113,
+    "forks_count": 4385
   },
   {
     "full_name": "gopasspw/gopass",
-    "stargazers_count": 7050,
+    "stargazers_count": 7051,
     "open_issues_count": 95,
     "forks_count": 549
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 167725,
-    "open_issues_count": 813,
-    "forks_count": 12075
+    "stargazers_count": 168630,
+    "open_issues_count": 818,
+    "forks_count": 12172
   },
   {
     "full_name": "charlax/engineering-management",
-    "stargazers_count": 8324,
+    "stargazers_count": 8326,
     "open_issues_count": 1,
-    "forks_count": 679
+    "forks_count": 681
   }
 ]
