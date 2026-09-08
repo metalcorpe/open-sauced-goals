@@ -1,27 +1,27 @@
 [
   {
     "full_name": "multica-ai/andrej-karpathy-skills",
-    "stargazers_count": 209970,
+    "stargazers_count": 210981,
     "open_issues_count": 129,
-    "forks_count": 21345
+    "forks_count": 21441
   },
   {
     "full_name": "sphragis-oss/sphragis",
     "stargazers_count": 6,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 0
   },
   {
     "full_name": "MemPalace/mempalace",
-    "stargazers_count": 58835,
-    "open_issues_count": 761,
-    "forks_count": 7547
+    "stargazers_count": 58922,
+    "open_issues_count": 771,
+    "forks_count": 7548
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 60939,
+    "stargazers_count": 60981,
     "open_issues_count": 19,
-    "forks_count": 3671
+    "forks_count": 3677
   },
   {
     "full_name": "readmarginalia/marginalia",
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 502792,
+    "stargazers_count": 504052,
     "open_issues_count": 106,
-    "forks_count": 36699
+    "forks_count": 36783
   },
   {
     "full_name": "Netflix/vmaf",
-    "stargazers_count": 5471,
+    "stargazers_count": 5474,
     "open_issues_count": 115,
     "forks_count": 832
   },
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "dmno-dev/varlock",
-    "stargazers_count": 4251,
-    "open_issues_count": 52,
-    "forks_count": 117
+    "stargazers_count": 4356,
+    "open_issues_count": 54,
+    "forks_count": 119
   },
   {
     "full_name": "microsoft/agent-lightning",
-    "stargazers_count": 17982,
-    "open_issues_count": 158,
+    "stargazers_count": 18021,
+    "open_issues_count": 162,
     "forks_count": 1579
   },
   {
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "msgspec/msgspec",
-    "stargazers_count": 4083,
-    "open_issues_count": 236,
+    "stargazers_count": 4091,
+    "open_issues_count": 229,
     "forks_count": 186
   },
   {
     "full_name": "reacherhq/check-if-email-exists",
-    "stargazers_count": 9546,
+    "stargazers_count": 9560,
     "open_issues_count": 88,
-    "forks_count": 693
+    "forks_count": 695
   },
   {
     "full_name": "attaryz/pkg-version",
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "AmoyLab/Unla",
-    "stargazers_count": 2221,
+    "stargazers_count": 2222,
     "open_issues_count": 94,
-    "forks_count": 182
+    "forks_count": 183
   },
   {
     "full_name": "Krukov/cashews",
-    "stargazers_count": 592,
+    "stargazers_count": 593,
     "open_issues_count": 26,
     "forks_count": 41
   },
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 52721,
-    "open_issues_count": 297,
-    "forks_count": 1686
+    "stargazers_count": 52756,
+    "open_issues_count": 299,
+    "forks_count": 1687
   },
   {
     "full_name": "docling-project/docling",
-    "stargazers_count": 65979,
-    "open_issues_count": 889,
-    "forks_count": 4747
+    "stargazers_count": 66139,
+    "open_issues_count": 897,
+    "forks_count": 4757
   },
   {
     "full_name": "ftsagkris/singleline",
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "googleapis/release-please-action",
-    "stargazers_count": 2513,
+    "stargazers_count": 2514,
     "open_issues_count": 133,
     "forks_count": 328
   },
   {
     "full_name": "stripe/pg-schema-diff",
-    "stargazers_count": 878,
+    "stargazers_count": 879,
     "open_issues_count": 85,
     "forks_count": 82
   },
   {
     "full_name": "theory/pgtap",
-    "stargazers_count": 1163,
+    "stargazers_count": 1164,
     "open_issues_count": 55,
-    "forks_count": 108
+    "forks_count": 109
   },
   {
     "full_name": "cyprieng/github-breakout",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 318106,
-    "open_issues_count": 16,
-    "forks_count": 28629
+    "stargazers_count": 319195,
+    "open_issues_count": 19,
+    "forks_count": 28685
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 39745,
-    "open_issues_count": 107,
-    "forks_count": 4460
+    "stargazers_count": 39925,
+    "open_issues_count": 112,
+    "forks_count": 4478
   },
   {
     "full_name": "gopasspw/gopass",
-    "stargazers_count": 7119,
-    "open_issues_count": 91,
+    "stargazers_count": 7130,
+    "open_issues_count": 92,
     "forks_count": 559
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 178041,
-    "open_issues_count": 702,
-    "forks_count": 13118
+    "stargazers_count": 180797,
+    "open_issues_count": 626,
+    "forks_count": 13285
   }
 ]
